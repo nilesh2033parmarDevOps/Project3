@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 30px;
+  border-radius: 12px;
+  display: inline-block;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  background: #38bdf8;
+  color: black;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.green {
+  color: #22c55e;
+}
+
+.red {
+  color: #ef4444;
+}
