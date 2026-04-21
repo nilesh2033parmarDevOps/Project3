@@ -20,7 +20,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>🚀 DevOps </h1>
+      <h1>🚀 DevOps timeline </h1>
 
       <div className="card">
         <h2>Status: 
